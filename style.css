@@ -1,0 +1,41 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+.profile {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    margin: 10px 20px 20px 0;
+    box-shadow: 1px 1px 20px yellow;
+    /* mix-blend-mode: color-burn; */
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: rgb(42, 42, 98);
+}
+em {
+    color: aqua;
+}
+.container {
+    display: flex;
+    height: 20%;
+    width: auto;
+    margin-right: 10px;
+    background-color: rgb(226, 213, 213);
+    border-radius: 60%;
+    justify-content: space-between;
+    align-items: center;
+}
+header {
+    text-align: center;
+    margin-bottom:20px;
+    background-color: black;
+}
+.blackblock {
+    height: 10px;
+    width: auto;
+    background-color: black;
+}
